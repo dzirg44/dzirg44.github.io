@@ -1,0 +1,5 @@
+export Aboutme from "./aboutme/main"
+export Portfolio from "./projects/main"
+export Experience from "./experience/main"
+export Blog from "./blog/main"
+export Index from "./index/main"
