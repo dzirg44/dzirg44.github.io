@@ -23,7 +23,12 @@ const Contacts = [
 		contactprovider:"Celphone",
 		contact:"+380935161762 (Ukraine)",
 
-    },
+		},
+		{
+			contactprovider:"Skype",
+			contact:"dzirg44",
+	
+		},
 
 ];
 export default Contacts;

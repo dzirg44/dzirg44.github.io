@@ -65,7 +65,7 @@
 /******/ 	}
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "36c52c8301d180ebda05"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "1ed4d863e5d2312677d7"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -57254,6 +57254,10 @@
 	}, {
 		contactprovider: "Celphone",
 		contact: "+380935161762 (Ukraine)"
+
+	}, {
+		contactprovider: "Skype",
+		contact: "dzirg44"
 
 	}];
 	exports.default = Contacts;
