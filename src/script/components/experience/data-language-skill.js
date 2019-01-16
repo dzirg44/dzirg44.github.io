@@ -11,7 +11,7 @@ const Languageskills = [
 	},
 	{
 			Language:"English Speaking",
-			Langagelevel:"elementary+",
+			Langagelevel:"pre-intermediate",
 	
 	},
 	{

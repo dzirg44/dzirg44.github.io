@@ -9,6 +9,30 @@ const Softskills = [
 const Experiences = [
 	{
 		title:"Devops Engineer",
+		company: "PdfFiller",
+		startDate: "2018.07",
+		endDate: "current",
+		description:[
+			"Creating and developing company's infrastructure via terraform\\terragrunt",
+			"Building and improving existing docker solution\\images",
+			"Migrating from old monolith infrastructure to the microservices",
+			"Monitoring and log managment for the  ecs clusters",
+			"Teaching developers team",
+			"Creating IAM Roles\\Policy for AWS",
+			"Building nginx dynamic load balancer (Consul,vts-stats,Prometheus,fluentd,Geo-Ip,Cookie-based-routing)"
+		],
+		goals:[
+			"Production ready  load balancer with detail statistics",
+			"Migrated 2 old project to the new infrastructure",
+			"Builded many new docker images",
+			"Improved current terraform modules",
+			"Wrote new terraform module",
+			"Changed a type of instances (for more cheap price)"
+		],
+		logo: "nccu.jpg"
+	},
+	{
+		title:"Devops Engineer",
 		company: "Admobitec",
 		startDate: "2017.10",
 		endDate: "2018.07",

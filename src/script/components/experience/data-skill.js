@@ -1,7 +1,7 @@
 const Softskills = [
 	{
 		technologygroup:"CI\\CD",
-		technology:"travisCI, gitlabCI, droneCI, jenkinsCI",
+		technology:"travisCI, gitlabCI, droneCI, jenkinsCI, teamcity",
 
     },
 	{
@@ -21,7 +21,7 @@ const Softskills = [
     },
     {
 		technologygroup:"Containerisation\\Virtualisation",
-		technology:"docker, docker-swarm, docker-compose, kubernetes, Virtaulbox, KVM, Vagrant",
+		technology:"docker, docker-swarm, docker-compose, kubernetes, Virtaulbox, KVM, Vagrant, terraform, terragrunt",
 
     },
     {
@@ -30,11 +30,11 @@ const Softskills = [
     },
     {
 		technologygroup:"Linux Utils",
-		technology:"iptables, iproute, tcpdump, strace, vim, ping, mtr, traceroute, wireshark, sysctl, ethtool, ss, netstat, grep, sed, awk",
+		technology:"iptables, iproute, tcpdump, strace, vim, ping, mtr, traceroute, wireshark, sysctl, ethtool, ss, netstat, grep, sed, awk, confd",
     },
     {
 		technologygroup:"Amazon Web Services",
-		technology:"ec2, s3, cloudfront, route53, IAM",
+		technology:"ec2, s3, cloudfront, route53, IAM, ecs, lambda, dynamodb",
 		},
     {
 			technologygroup:"VPN",
